@@ -12,7 +12,24 @@
 .exo1-1 ul li {
     list-style: circle;
 }
+/*Exo 4*/
 
-.h2-exo1 {
-    background-color: ;
+.rtg1-ex4 {
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 7px;
+}
+
+.rtg2-ex4 {
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 7px;
+}
+
+.box-exo4 {
+    height: 50px;
+    width: 50px;
+    background-color: green;
 }

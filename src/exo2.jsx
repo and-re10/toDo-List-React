@@ -22,7 +22,9 @@ export default function Exo2() {
   function Exo2_1() {
     return (
       <div className="exo1 d-flex align-items-center justify-content-center">
-        <h2>Mettre un écouteur d'événements sur les boutons nav et changer le panel en conséquance</h2>
+        <div className="d-flex flex-column align-items-start exo1-1 w-75 p-5">
+          <h2>Mettre un écouteur d'événements sur les boutons nav et changer le panel en conséquance</h2>
+        </div>
     </div> 
     )
   }
