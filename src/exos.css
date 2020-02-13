@@ -33,3 +33,7 @@
     width: 50px;
     background-color: green;
 }
+
+.logo {
+    background-image: url(./images/pintainho.jpg);
+}
