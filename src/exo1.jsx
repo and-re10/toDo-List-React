@@ -27,7 +27,7 @@ export default function Exo1() {
     return (
         <>
             <div id='div-exo1' className="exo1 d-flex align-items-center justify-content-center">
-                <div onClick ={() => verifier()} className="d-flex flex-column align-items-start exo1-1 w-75 p-5">
+                <div onClick ={() => verifier()} className="d-flex flex-column align-items-start exo1-1 w-75 p-5 m-5">
                     <h2 id="titre">Mon titre modifie</h2>
                     <p>Liste de propriété et méthodes a retrouver dans la documentation:</p>
                     <ul>

@@ -42,7 +42,7 @@ export default function Exo5() {
 
     return (
         <div className="exo1 d-flex align-items-center justify-content-center">
-            <div className="d-flex flex-column align-items-center exo1-1 w-75 p-5">
+            <div className="d-flex flex-column align-items-center exo1-1 w-75 p-5 m-5">
                 <h2 id="titre">Mon titre modifie</h2>
                 <p>Liste de proprietes et methodes a retrouver dans la documentation</p>
                 <div>
