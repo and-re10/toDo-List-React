@@ -80,7 +80,6 @@ export default function Exo2() {
             <Route path='/Exo7'>
                 <Exo7/>
             </Route>
-
           </Switch>
       </div>
   </Router>

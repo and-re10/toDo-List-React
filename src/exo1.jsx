@@ -1,5 +1,5 @@
 import React, { useState} from "react"
-
+//import "../node_modules/bootstrap/dist/css/boostrap.css"
 import "./exos.css"
 
 export default function Exo1() {

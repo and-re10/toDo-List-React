@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"
-import "./exos.css"
 import "../node_modules/bootstrap/dist/css/bootstrap.css"
+import "./exos.css"
 
 export default function Exo6() {
     const [result1, setResult1] = useState("Resultat")

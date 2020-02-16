@@ -1,6 +1,6 @@
 import React, { useState } from "react"
-import "./exos.css"
 import "../node_modules/bootstrap/dist/css/bootstrap.css"
+import "./exos.css"
 
 export default function Exo4() {
     const [position, setPosition] = useState(false)

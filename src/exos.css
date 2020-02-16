@@ -34,10 +34,6 @@
     background-color: green;
 }
 
-.logo {
-    background-image: url(./images/pintainho.jpg);
-}
-
 /*calculatrice niveau 2*/
 .calculatrice {
     height: 400px;
@@ -107,4 +103,24 @@
     color: white;
     font-weight: bolder;
     border-radius: 50%;
+}
+
+/* Exo 7 */
+
+.btn-ex7{
+    border-radius: 7px;
+    background-color: aquamarine;
+    padding: 3px;
+}
+
+.error {
+    border: 3px solid red;
+}
+
+.error1 {
+    border: 1px solid red;
+    width: 175px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px black;
+    margin-bottom: 5px;
 }

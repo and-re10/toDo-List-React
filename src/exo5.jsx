@@ -1,6 +1,6 @@
 import React, { useState } from "react"
-import "./exos.css"
 import "../node_modules/bootstrap/dist/css/bootstrap.css"
+import "./exos.css"
 import logo from "./logo.svg"
 
 export default function Exo5() {
@@ -14,7 +14,7 @@ export default function Exo5() {
         let div_exo5 = document.getElementById('div-img-exo5')
 
         let img = document.createElement('img')
-        img.src = logo
+        img.src = "./pintainho.jpg"
         img.classList = 'col-1 m-0 p-0 App-logo'
         div_exo5.appendChild(img)
         setCompt(compt+=1)
